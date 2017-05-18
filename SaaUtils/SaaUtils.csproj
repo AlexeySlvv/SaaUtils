@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CryptUtil.cs" />
+    <Compile Include="EnumUtil.cs" />
+    <Compile Include="FieldNameAttribute.cs" />
     <Compile Include="GenericUtil.cs" />
     <Compile Include="NaturalStringComparer.cs" />
     <Compile Include="ParserUtil.cs" />
